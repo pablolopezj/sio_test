@@ -17,7 +17,7 @@
                             <th>Name</th>
                             <th>User</th>
                             <th>Date</th>
-                            <th>Total by Day</th>
+                            <th>Time by Day</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -47,7 +47,7 @@
                             <th>Name</th>
                             <th>User</th>
                             <th>Date</th>
-                            <th>Total by Month</th>
+                            <th>Time by Month</th>
                         </tr>
                     </thead>
                     <tbody>
